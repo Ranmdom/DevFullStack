@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Romulo\\Desktop\\Curso DevFull Stack\\DevFullStack\\Lógica de programação\\projeto_1\\projeto_1.csproj",
-      "projectName": "projeto_1",
-      "projectPath": "C:\\Users\\Romulo\\Desktop\\Curso DevFull Stack\\DevFullStack\\Lógica de programação\\projeto_1\\projeto_1.csproj",
+      "projectUniqueName": "C:\\Users\\Romulo\\Desktop\\Curso DevFull Stack\\DevFullStack\\Hello_World\\Hello_World.csproj",
+      "projectName": "Hello_World",
+      "projectPath": "C:\\Users\\Romulo\\Desktop\\Curso DevFull Stack\\DevFullStack\\Hello_World\\Hello_World.csproj",
       "packagesPath": "C:\\Users\\Romulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Romulo\\Desktop\\Curso DevFull Stack\\DevFullStack\\Lógica de programação\\projeto_1\\obj\\",
+      "outputPath": "C:\\Users\\Romulo\\Desktop\\Curso DevFull Stack\\DevFullStack\\Hello_World\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Romulo\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\bin\Debug\net7.0\projeto_1.exe
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\bin\Debug\net7.0\projeto_1.deps.json
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\bin\Debug\net7.0\projeto_1.runtimeconfig.json
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\bin\Debug\net7.0\projeto_1.dll
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\bin\Debug\net7.0\projeto_1.pdb
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\obj\Debug\net7.0\projeto_1.csproj.AssemblyReference.cache
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\obj\Debug\net7.0\projeto_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\obj\Debug\net7.0\projeto_1.AssemblyInfoInputs.cache
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\obj\Debug\net7.0\projeto_1.AssemblyInfo.cs
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\obj\Debug\net7.0\projeto_1.csproj.CoreCompileInputs.cache
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\obj\Debug\net7.0\projeto_1.dll
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\obj\Debug\net7.0\refint\projeto_1.dll
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\obj\Debug\net7.0\projeto_1.pdb
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\obj\Debug\net7.0\projeto_1.genruntimeconfig.cache
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Lógica de programação\projeto_1\obj\Debug\net7.0\ref\projeto_1.dll

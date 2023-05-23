@@ -7,3 +7,4 @@ mostrar a quantidade de vida ele perderá
 */
 
 Console.WriteLine("Hello, World!");
+Console.WriteLine("..........................");

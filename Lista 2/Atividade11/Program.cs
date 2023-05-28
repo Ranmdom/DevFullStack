@@ -31,5 +31,7 @@ if(sucesso_brancos && sucesso_leitores && sucesso_nulos){
     Console.WriteLine("O percentual de votos brancos: " + P_nulos + "%");
 
 }
-
+else{
+    Console.WriteLine("Entrada Inválida, por favor digite apenas números ");
+}
 

@@ -56,7 +56,9 @@ else if(salario >= 1500.00 || salario >= 1500){
      Console.WriteLine("Percentual do aumento aplicado: 5%");
      Console.WriteLine("Valor do aumento: " + reajuste + " reais");
      Console.WriteLine("Novo salário: " + novo_salario + " reais");
-
+}
+else{
+    Console.WriteLine("Opção inválida, por favor digite apenas números");
 }
 
 

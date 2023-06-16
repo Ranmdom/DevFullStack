@@ -1,7 +1,4 @@
-﻿
-Console.WriteLine("Hello, World!");
-
-        double[] vetor = new double[10];
+﻿        double[] vetor = new double[10];
 
         // Preenchendo o vetor
         for (int i = 0; i < 10; i++)
@@ -17,3 +14,5 @@ Console.WriteLine("Hello, World!");
         {
             Console.WriteLine(vetor[i]);
         }
+
+

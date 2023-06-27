@@ -30,11 +30,9 @@ for(int i = 0; i < 3; i++){
 
 int somaDiagonalPrincipal = 0;
 for(int i = 0; i < 3; i++){
-    for(int j = 0; j < 3 ; j++){
 
-        somaDiagonalPrincipal += matriz[i,j];
+        somaDiagonalPrincipal += matriz[i,i];
 
-    }
 }
 
-Console.WriteLine("A soma dos valores da diagonal principal é: " + somaDiagonalPrincipal);
+Console.WriteLine($"A soma dos valores da diagonal principal é: {somaDiagonalPrincipal} ");

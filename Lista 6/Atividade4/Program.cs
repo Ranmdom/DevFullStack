@@ -1,9 +1,4 @@
-﻿/*
-Leia uma matriz 3 x 3 e imprima a soma dos valores contidos 
-em sua diagonal principal  
-*/
-
-//Declaração da matriz 3 x 3 
+﻿//Declaração da matriz 3 x 3 
 int [,] matriz = new int [3,3];
 int soma = 0;
 
@@ -21,7 +16,7 @@ for(int i = 0; i < 3; i++){
 
 for(int i = 0; i < 3; i++){
     for(int j = 0; j < 3; j++){
-        Console.WriteLine(matriz[i,j] + " ");
+        Console.Write(matriz[i,j] + " ");
     }
     Console.WriteLine();
 }

@@ -1,10 +1,4 @@
-﻿/*
-Leia uma matriz 3x3. Em seguida, imprima a soma dos valores contidos
-em sua diagonal secundária.
-*/
-
-
-//Declarar variaveis 
+﻿//Declarar variaveis 
 int [,] matriz = new int [3,3];
 int somaDiagonalSecundaria = 0;
 

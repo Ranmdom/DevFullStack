@@ -1,4 +1,5 @@
 ﻿//Declarar variaveis 
+
 int [,] matriz = new int [3,3];
 int somaDiagonalSecundaria = 0;
 

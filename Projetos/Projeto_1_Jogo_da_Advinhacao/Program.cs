@@ -59,9 +59,7 @@
         Console.WriteLine($"Tente adivinhar um número entre: {PrimeiroValorPossivel[indiceDificuldade]} e {UltimoValorPossivel[indiceDificuldade]}");
 
         HashSet<int> numeroDigitados = new HashSet<int>();
-
-
-
+         
         while (vidasRestantes > 0)
         {
             Console.WriteLine("Digite um número: ");

@@ -1,0 +1,15 @@
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\bin\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.exe
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\bin\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.deps.json
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\bin\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.runtimeconfig.json
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\bin\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.dll
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\bin\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.pdb
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\obj\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.csproj.AssemblyReference.cache
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\obj\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\obj\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.AssemblyInfoInputs.cache
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\obj\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.AssemblyInfo.cs
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\obj\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\obj\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.dll
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\obj\Debug\net7.0\refint\Projeto_1_Jogo_da_Advinhacao.dll
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\obj\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.pdb
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\obj\Debug\net7.0\Projeto_1_Jogo_da_Advinhacao.genruntimeconfig.cache
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_1_Jogo_da_Advinhacao\obj\Debug\net7.0\ref\Projeto_1_Jogo_da_Advinhacao.dll

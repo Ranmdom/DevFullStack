@@ -1,0 +1,15 @@
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\bin\Debug\net7.0\Projeto_2_jogo_da_forca.exe
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\bin\Debug\net7.0\Projeto_2_jogo_da_forca.deps.json
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\bin\Debug\net7.0\Projeto_2_jogo_da_forca.runtimeconfig.json
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\bin\Debug\net7.0\Projeto_2_jogo_da_forca.dll
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\bin\Debug\net7.0\Projeto_2_jogo_da_forca.pdb
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\obj\Debug\net7.0\Projeto_2_jogo_da_forca.csproj.AssemblyReference.cache
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\obj\Debug\net7.0\Projeto_2_jogo_da_forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\obj\Debug\net7.0\Projeto_2_jogo_da_forca.AssemblyInfoInputs.cache
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\obj\Debug\net7.0\Projeto_2_jogo_da_forca.AssemblyInfo.cs
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\obj\Debug\net7.0\Projeto_2_jogo_da_forca.csproj.CoreCompileInputs.cache
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\obj\Debug\net7.0\Projeto_2_jogo_da_forca.dll
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\obj\Debug\net7.0\refint\Projeto_2_jogo_da_forca.dll
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\obj\Debug\net7.0\Projeto_2_jogo_da_forca.pdb
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\obj\Debug\net7.0\Projeto_2_jogo_da_forca.genruntimeconfig.cache
+C:\Users\Romulo\Desktop\Curso DevFull Stack\DevFullStack\Projetos\Projeto_2_jogo_da_forca\obj\Debug\net7.0\ref\Projeto_2_jogo_da_forca.dll

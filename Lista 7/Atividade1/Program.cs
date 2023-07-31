@@ -25,6 +25,7 @@ Console.WriteLine("Informar um novo lado? \n(S)im \n(N)ão");
 char opcao = Console.ReadKey().KeyChar;
 
 if(opcao == 'S' || opcao == 's'){
+
     Console.WriteLine("Infome o novo lado da Base: ");
     double novaBase = double.Parse(Console.ReadLine());
 
@@ -39,6 +40,9 @@ if(opcao == 'S' || opcao == 's'){
 
     Console.WriteLine($"Area total: {Area.ToString("F2")}");
     Console.WriteLine($"Perimetro total: {Perimetro.ToString("F2")}");
+    
 }else{
+    
     Console.WriteLine("Até mais!");
+
 }

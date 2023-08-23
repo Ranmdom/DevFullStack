@@ -7,6 +7,7 @@ namespace Agencia_Telefonica.Classes
 {
     public class Escritor
     {
+        public int Id { get; set; }
         public string  Nome { get; set; }
         public string  Sobrenome { get; set; }
         public string  Biografia { get; set; }

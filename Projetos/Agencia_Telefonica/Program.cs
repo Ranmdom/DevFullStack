@@ -47,3 +47,28 @@ foreach (var Vlogger in vloggers){
 
 Console.ReadKey();
 
+//EF para Inserir 
+using (var context = new AppDbContext()){
+    var promotor = new Promotor { Nome = "João", Sobrenome = "Silva", Telefone = "12345-6789", CartaoDeVisita = "Cartão A",Local = "ITA"};
+    context.Promotores.Add(promotor);
+    context.SaveChanges();
+}
+
+//Buscar
+using (var context = new AppDbContext()){
+    var promotor = context.Promotores.FirstOrDefault(p => p.Nome == "João");
+}
+
+//Alterar 
+using (var context = new AppDbContext()){
+    var promotor = context.Promotores.FirstOrDefault(p => p.Nome == "João");
+    promotor.Telefone = "Novo_Telefone";
+    context.SaveChanges();
+}
+//Deletar
+using (var context = new AppDbContext()){
+    var promotor = context.Promotores.FirstOrDefault(p => p.Nome == "João");
+    context.Promotores.Remove(promotor);
+    context.SaveChanges();
+}
+

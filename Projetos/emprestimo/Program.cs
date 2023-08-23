@@ -5,7 +5,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        List<Promotor> promotores = new List<Promotor>(){
+    List<Promotor> promotores = new List<Promotor>(){
     new Promotor { Nome = "João", Sobrenome = "Silva", Telefone = "12345-6789", CartaoDeVisita = "Cartão A",Local = "ITA" },
     new Promotor { Nome = "Maria", Sobrenome = "JUlia", Telefone = "12345-6789",CartaoDeVisita = "Cartão B", Local = "ITA" },
     new Promotor {Nome = "Pedro", Sobrenome = "Costa", Telefone = "12345-6789", CartaoDeVisita = "Cartão C", Local = "SESC"}
